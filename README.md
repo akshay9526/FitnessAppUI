@@ -1,4 +1,4 @@
-Fitness App UI (Flutter)
+# Fitness App UI (Flutter)
 
 https://github.com/user-attachments/assets/a260d715-c7d4-41ba-b174-f085d67ce818
 
